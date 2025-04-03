@@ -7,7 +7,7 @@
         <mxCell id="s5QRhpcnE34uPsZO7EeD-14" value="car inventory" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="485" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s5QRhpcnE34uPsZO7EeD-15" value="retal car client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s5QRhpcnE34uPsZO7EeD-15" value="rental center client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s5QRhpcnE34uPsZO7EeD-16" value="HeadQuatrer Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,37 +31,37 @@
             <mxPoint x="610" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s5QRhpcnE34uPsZO7EeD-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s5QRhpcnE34uPsZO7EeD-14" target="s5QRhpcnE34uPsZO7EeD-18">
+        <mxCell id="s5QRhpcnE34uPsZO7EeD-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="s5QRhpcnE34uPsZO7EeD-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="480" as="sourcePoint" />
-            <mxPoint x="610" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s5QRhpcnE34uPsZO7EeD-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.969;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s5QRhpcnE34uPsZO7EeD-16" target="s5QRhpcnE34uPsZO7EeD-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="480" as="sourcePoint" />
-            <mxPoint x="610" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s5QRhpcnE34uPsZO7EeD-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s5QRhpcnE34uPsZO7EeD-16" target="s5QRhpcnE34uPsZO7EeD-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="480" as="sourcePoint" />
-            <mxPoint x="610" y="430" as="targetPoint" />
+            <mxPoint x="644" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s5QRhpcnE34uPsZO7EeD-25" value="reservation" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="150" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s5QRhpcnE34uPsZO7EeD-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s5QRhpcnE34uPsZO7EeD-15" target="s5QRhpcnE34uPsZO7EeD-25">
+        <mxCell id="s5QRhpcnE34uPsZO7EeD-31" value="Reservation Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s5QRhpcnE34uPsZO7EeD-33" value="Car Inventory Update" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s5QRhpcnE34uPsZO7EeD-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.939;exitY=0.736;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s5QRhpcnE34uPsZO7EeD-18" target="s5QRhpcnE34uPsZO7EeD-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="470" as="sourcePoint" />
-            <mxPoint x="610" y="430" as="targetPoint" />
+            <mxPoint x="560" y="460" as="sourcePoint" />
+            <mxPoint x="610" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s5QRhpcnE34uPsZO7EeD-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="s5QRhpcnE34uPsZO7EeD-18" target="s5QRhpcnE34uPsZO7EeD-25">
+        <mxCell id="s5QRhpcnE34uPsZO7EeD-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="s5QRhpcnE34uPsZO7EeD-18" target="s5QRhpcnE34uPsZO7EeD-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="480" as="sourcePoint" />
-            <mxPoint x="610" y="430" as="targetPoint" />
+            <mxPoint x="560" y="360" as="sourcePoint" />
+            <mxPoint x="610" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s5QRhpcnE34uPsZO7EeD-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s5QRhpcnE34uPsZO7EeD-14" target="s5QRhpcnE34uPsZO7EeD-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="360" as="sourcePoint" />
+            <mxPoint x="610" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
